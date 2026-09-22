@@ -15,3 +15,6 @@ This is a lightweight Python data pipeline designed to pull, clean, store, and v
 2. Leverages **Pandas** to clean JSON outputs and transform them into a tabular format.
 3. Appends historical records into a localized `market_prices.csv` storage file.
 4. Generates an automated bar chart (`price_chart.png`) mapping current asset values.
+
+## Data Visualization
+![Live Crypto Prices](price_chart.png)
